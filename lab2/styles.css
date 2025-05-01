@@ -1,0 +1,38 @@
+.page1-background {
+    background-color: #f0f8ff;
+    font-family: Arial, sans-serif;
+    padding: 20px;
+  }
+
+  .page2-background {
+    background-color: #fefbd8;
+    font-family: Arial, sans-serif;
+    padding: 20px;
+  }
+
+  .form-group {
+    margin-bottom: 15px;
+    font-size: 18px;
+  }
+
+  input[type="text"] {
+    padding: 8px;
+    width: 300px;
+  }
+
+  .submit-btn {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    margin-top: 10px;
+    border: none;
+    cursor: pointer;
+  }
+
+  .submit-btn:hover {
+    background-color: #45a049;
+  }
+
+  .centered {
+    text-align: center;
+  }
